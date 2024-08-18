@@ -13,8 +13,8 @@
 #define S3L_NEAR (S3L_F / 5)
 #define S3L_Z_BUFFER 1
 #define S3L_PIXEL_FUNCTION drawPixel
-#define S3L_RESOLUTION_X 800
-#define S3L_RESOLUTION_Y 600
+#define S3L_RESOLUTION_X 1920
+#define S3L_RESOLUTION_Y 1080
 
 #define TEXTURE_W 256
 #define TEXTURE_H 256
