@@ -17,7 +17,7 @@
 ## Credits:
 
 - J. Tornblom for the SDK and required payloads.
-- drummyfish for the lib and example program.
+- drummyfish for the library and example programs.
 - gen04177, testing and research...
 
 For more info, see: https://github.com/viteo/small3dlib
