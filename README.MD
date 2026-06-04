@@ -1,7 +1,5 @@
 # small3dlib-test
 
-`hbldr small3dlib-modelViewer.elf`
-
 ## Controls:
 
 - **Left Stick**:       rotate model
@@ -16,8 +14,6 @@
 
 ## Credits:
 
-- J. Tornblom for the SDK and required payloads.
-- drummyfish for the library and example programs.
-- gen04177, testing and research...
+##
 
 For more info, see: https://github.com/viteo/small3dlib
